@@ -1,6 +1,6 @@
 <div>
   <h2 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h2>
-  <p align="center">Graduação Bacharelado - Sistema de Informação pelo <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
+  <p align="center">Graduação Bacharelado - Sistemas de Informação pelo <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
   </p>
 </div>
 <div align="center" valign="top"><br>
