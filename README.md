@@ -1,9 +1,8 @@
 <div>
   <h2 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h2>
   <p align="center">Graduação Bacharelado - Sistema de Informação pelo <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antônio-biasotti)
-
+  </p>
+</div>
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
