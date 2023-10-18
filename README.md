@@ -7,12 +7,16 @@
 
 <br>
 
-
 <div>
   <h2 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h2>
   <p align="center">Graduação Bacharelado - Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
   </p>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nodejs,express,py,linux" />
+  </a>
+</p>
 <div valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
