@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Antonio+and+I'm+a+FullStack+Dev+👨🏻‍💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hey!+My+name+is+Antonio+and+I'm+on+my+way+to+be+a+FullStack+Dev+👨🏻‍💻)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobiasotti&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniobiasotti&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
