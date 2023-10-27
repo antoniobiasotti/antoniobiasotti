@@ -7,8 +7,8 @@
 
 <div>
   <h2 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h2>
-  <p align="center">Graduação Bacharelado - Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao"><i>Universidade Presbiteriana Mackenzie</i></a>
-  </p>
+  <h4 align="center">🗸Graduação Bacharelado - Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a>
+  </h4>
 </div>
 
 <p align="center">
