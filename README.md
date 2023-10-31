@@ -6,7 +6,7 @@
 | ![Trophies](https://github-profile-trophy.vercel.app/?username=antoniobiasotti&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=antoniobiasotti&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
 
 <div>
-  <h2 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h2>
+  <h3 align="center"><a href="https://www.linkedin.com/in/antonio-biasotti">Antônio Biasotti</a></h3>
   <h4 align="center">🗸Graduação Bacharelado - Sistemas de Informação pela <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a>
   </h4>
 </div>
