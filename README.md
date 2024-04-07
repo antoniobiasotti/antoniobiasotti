@@ -4,7 +4,7 @@
   - Bachelor's Degree in Information Systems from <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a>
 
 ### 🌱 Technologies I'm learning
-- JavaScript, React, Node
+- JavaScript, Node, React and Next.js
 - Also Python and C#
 
 ### 💬 Let's chat!
@@ -14,7 +14,7 @@
 ### 🚀 Technologies I use in my day-to-day
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,vite,react,nodejs,express,py,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,vite,nodejs,express,py,linux" />
   </a>
 </p>
 
