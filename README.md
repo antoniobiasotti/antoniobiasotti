@@ -14,7 +14,7 @@
 ### 🚀 Technologies I use in my day-to-day
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,vite,nodejs,express,py,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,figma,nextjs,vite,nodejs,express,py,linux" />
   </a>
 </p>
 
