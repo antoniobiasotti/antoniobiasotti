@@ -4,7 +4,7 @@
   - Bachelor's Degree in Information Systems from <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a>
 
 ### 🌱 Technologies I'm learning
-- JavaScript, Node, React and Next.js
+- JavaScript, React and Next.js
 - Also Python and C#
 
 ### 💬 Let's chat!
