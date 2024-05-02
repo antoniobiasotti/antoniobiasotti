@@ -1,16 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hey!+My+name+is+Antonio+and+I'm+on+my+way+to+be+a+FullStack+Dev+👨🏻‍💻)
 
-### 📚 What I'm up to
-  - Bachelor's Degree in Information Systems from <a href="https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Universidade Presbiteriana Mackenzie</a>
-
-### 🌱 Technologies I'm learning
-- Javascript, Typescript, React and Next.js
-- Also Python and C#
-
-### 💬 Let's chat!
-- Find me on [LinkedIn](www.linkedin.com/in/antonio-biasotti)
-- Let's have a conversation on Discord!
-
 ### 🚀 Technologies I use in my day-to-day
 <p align="center">
   <a href="https://skillicons.dev">
