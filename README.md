@@ -19,21 +19,16 @@
 </p>
 
 ### 📊 My GitHub Stats
-<details>
-  <summary> 👩🏽‍🎓 Engagement Level </summary>
+  👩🏽‍🎓 Engagement Level
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=antoniobiasotti&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
-</details>
-<details>
-  <summary> 🔥 GitHub Streak </summary>
+  🔥 GitHub Streak
   <p>
     <img src="https://streak-stats.demolab.com?user=antoniobiasotti&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
   </p>
-</details>
-<details>
-  <summary> 🗣️ Top Languages </summary>
+  🗣️ Top Languages
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobiasotti&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
   </p>
-</details>
+
