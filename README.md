@@ -19,7 +19,7 @@
 ### Best frameworks and main libraries:
 
 | React | Next | Tailwind | Bootstrap | Material UI | Ant Design | StoryBook |
-|----------|----------|----------------|----------|----------|----------|
+|----------|----------|----------|------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs"  alt="nextjs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="antdesign" alt="antdesign" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" alt="storybook" width="55" height="55"/>|
 
 
