@@ -1,13 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hey!+My+name+is+Antonio+and+I'm+on+my+way+to+be+a+FullStack+Dev+👨🏻‍💻)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hi!+My+name+is+Antonio+and+I'm+on+my+way+to+be+a+FullStack+Dev+👨🏻‍💻)
 
 ### Working on: 🚀
 
 - [DevStore](https://github.com/sammorozov/ethernaut_source_tasks) - E-commerce UI developed using Next.js + TailwindCSS
 - [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
 - [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
-
-## Languages and Tools 
-<div>
 
 ### Languages:
 | Javascript | Typescript | HTML5 | CSS3 |
