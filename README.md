@@ -2,7 +2,7 @@
 
 ### Working on: 🚀
 
-- [DevStore](https://github.com/sammorozov/ethernaut_source_tasks) - E-commerce UI developed using Next.js + TailwindCSS
+- [DevStore](https://github.com/antoniobiasotti/devlinks) - E-commerce UI developed using Next.js + TailwindCSS
 - [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
 - [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
 
