@@ -2,11 +2,9 @@
 
 ### Working on: 🚀
 
-- Tweaking this README for optimal engagement 
-- [fullstack web3 development course](https://github.com/sammorozov/full_course_crypto_32) 
-- [ethernaut tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, with results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
+- [DevStore](https://github.com/sammorozov/ethernaut_source_tasks) - E-commerce UI developed using Next.js + TailwindCSS
+- [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
+- [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
 
 ## Languages and Tools 
 <div>
