@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Serif&size=26&pause=1500&weight=600&duration=3500&color=FFFFFF&background=FFFFFF00&center=true&vcenter=true&width=1000&height=60&lines=✌️+Hi!+My+name+is+Antonio+and+I'm+on+my+way+to+be+a+FullStack+Dev+👨🏻‍💻)
-
 ### Working on: 🚀
 
 - [DevStore](https://github.com/antoniobiasotti/devlinks) - E-commerce UI developed using Next.js + TailwindCSS
