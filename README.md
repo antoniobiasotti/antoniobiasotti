@@ -3,7 +3,7 @@
 - [DevStore](https://github.com/antoniobiasotti/devlinks) - E-commerce UI developed using Next.js + TailwindCSS
 - [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
 - [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
-- <a href="https://oficina-react-part2.vercel.app/" target="_blank">[WhereInTheWorld]</a>
+- <a href="https://oficina-react-part2.vercel.app/" target="_blank">WhereInTheWorld</a>
 
 ### Languages:
 | Javascript | Typescript | HTML5 | CSS3 |
