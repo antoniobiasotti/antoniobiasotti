@@ -1,9 +1,9 @@
 ### Working on: 🚀
-- <img src="https://github.com/antoniobiasotti/tailwind-next/blob/master/src/app/components/Sidebar/Logo.tsx" title="HTML5" alt="HTML5" width="18" height="18"> [Untitled UI](https://github.com/antoniobiasotti/tailwind-next) - Dashboard UI to train my skills 
-- <img src="https://github.com/antoniobiasotti/WhereInTheWorld/blob/main/src/app/icon.png" title="HTML5" alt="HTML5" width="18" height="18"> [DevStore](https://github.com/antoniobiasotti/devlinks) - E-commerce UI developed using Next.js App Router framework
-- <img src="https://github.com/antoniobiasotti/WhereInTheWorld/blob/main/src/app/icon.png" title="HTML5" alt="HTML5" width="18" height="18"> [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
-- <img src="https://github.com/antoniobiasotti/WhereInTheWorld/blob/main/src/app/icon.png" title="HTML5" alt="HTML5" width="18" height="18"> [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
-- <img src="https://github.com/antoniobiasotti/WhereInTheWorld/blob/main/src/app/icon.png" title="HTML5" alt="HTML5" width="18" height="18"> [WhereInTheWorld](https://github.com/antoniobiasotti/WhereInTheWorld) - Project developed in a React Workshop in Mackenzie
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/untititledUI" title="HTML5" alt="HTML5" width="18" height="18"> [Untitled UI](https://github.com/antoniobiasotti/tailwind-next) - Dashboard UI to train my skills 
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/" title="HTML5" alt="HTML5" width="18" height="18"> [DevStore](https://github.com/antoniobiasotti/devstore) - E-commerce UI developed using Next.js App Router framework
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/" title="HTML5" alt="HTML5" width="18" height="18"> [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/flix.svg" title="HTML5" alt="HTML5" width="18" height="18"> [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/where-in-the-world.png" title="HTML5" alt="HTML5" width="18" height="18"> [WhereInTheWorld](https://github.com/antoniobiasotti/WhereInTheWorld) - Project developed in a React Workshop in Mackenzie
 ### Languages:
 | Javascript | Typescript | HTML5 | CSS3 |
 |----------|----------|----------|-----|
