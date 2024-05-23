@@ -1,5 +1,5 @@
 ### Working on: 🚀
-- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/untitledUI.png" title="" alt="" width="24" height="24"> [Untitled UI](https://github.com/antoniobiasotti/tailwind-next) - Dashboard UI buily with TailwindCSS to train my skills </h4>
+- <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/untitledUI.png" title="" alt="" width="24" height="24"> [Untitled UI](https://github.com/antoniobiasotti/tailwind-next) - Dashboard UI built with TailwindCSS to train my skills </h4>
 - <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/ds.png" title="" alt="" width="24" height="24"> [DevStore](https://github.com/antoniobiasotti/devstore) - E-commerce UI developed using Next.js App Router framework
 - <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/next.svg" title="" alt="" width="24" height="18"> [DevLinks](https://github.com/antoniobiasotti/devlinks) - DevLinks is a directory that brings for you the most usefull links in various topics related to WebDevelopment!
 - <img src="https://github.com/antoniobiasotti/antoniobiasotti/blob/main/assets/flix.svg" title="" alt="" width="24" height="20"> [Flix](https://github.com/ppads-2024s1-g8) - Social Media App developed for Professional Practices on Web Development course
