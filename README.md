@@ -11,7 +11,7 @@
 
   
 
-### Best Frameworks and Main libraries:
+### Best Frameworks and Main Libraries:
 
 | React | Next | TailwindCSS | Bootstrap | MaterialUI | AntDesign | StoryBook |
 |----------|----------|----------|------|----------|----------|----------|
